@@ -8,7 +8,7 @@ A new Flutter project.
   <img src="https://github.com/Songheu-Try/Flutter---Custom-Bottom-Navigation-Bar-/blob/e0e9e00b607af529b111c681d35f508e11ecf25e/c7ede5b1-f5c5-4f87-a6cc-c850c20c399d.jpeg" alt="Screen 1" width="200" />
   <img src="https://github.com/Songheu-Try/Flutter---Custom-Bottom-Navigation-Bar-/blob/8b00460905767be0ce732e51c4a3d37786ea1996/5fc011c6-a75e-45f0-a2ec-067e97b1a7e6.jpeg" alt="Screen 2" width="200" />
   <img src="https://github.com/Songheu-Try/Flutter---Custom-Bottom-Navigation-Bar-/blob/e0e9e00b607af529b111c681d35f508e11ecf25e/photo_6122771421902605201_y.jpg" alt="Screen 3 " width="200" />
-  <img src="https://github.com/Songheu-Try/Flutter---Custom-Bottom-Navigation-Bar-/blob/e0e9e00b607af529b111c681d35f508e11ecf25e/photo_6122771421902605201_y.jpg" alt="Screen 4" width="200" />
+  <img src="https://github.com/Songheu-Try/Flutter---Custom-Bottom-Navigation-Bar-/blob/40fce2a2bbbe089d7abf61b5ed069aebcf4cc141/photo_6122771421902605202_y.jpg" alt="Screen 4" width="200" />
 </div>
 ## Getting Started
 
